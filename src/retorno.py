@@ -14,7 +14,3 @@ def minha_lista() -> dict:
         supermercados=2,
         extras={"doces": "chocolates", "sucos": "morango"},
     )
-
-
-lista = minha_lista()
-print(lista)
